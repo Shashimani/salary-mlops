@@ -1,0 +1,11 @@
+%%write requirements.txt
+
+FastApi
+uvicorn
+mlflow
+pandas
+numpy
+scikit-learn
+shap
+streamlit
+matplotlib
