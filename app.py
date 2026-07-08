@@ -1,4 +1,3 @@
-%%writefile app.py
 from fastapi import FastAPI
 from pydantic import BaseModel
 
